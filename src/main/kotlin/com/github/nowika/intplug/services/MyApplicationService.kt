@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.nowika.intplug.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.nowika.intplug.MyBundle
 
 class MyApplicationService {
 
